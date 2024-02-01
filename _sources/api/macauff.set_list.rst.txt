@@ -1,6 +1,0 @@
-set_list
-========
-
-.. currentmodule:: macauff
-
-.. autofunction:: set_list

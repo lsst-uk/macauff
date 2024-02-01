@@ -1,6 +1,0 @@
-create_single_perturb_auf
-=========================
-
-.. currentmodule:: macauff
-
-.. autofunction:: create_single_perturb_auf

@@ -1,6 +1,0 @@
-make_perturb_aufs
-=================
-
-.. currentmodule:: macauff
-
-.. autofunction:: make_perturb_aufs

@@ -1,6 +1,0 @@
-calculate_proper_motions
-========================
-
-.. currentmodule:: macauff
-
-.. autofunction:: calculate_proper_motions

@@ -1,6 +1,0 @@
-generate_speclite_filters
-=========================
-
-.. currentmodule:: macauff
-
-.. autofunction:: generate_speclite_filters

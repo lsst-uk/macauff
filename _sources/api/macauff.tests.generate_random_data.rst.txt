@@ -1,6 +1,0 @@
-generate_random_data
-====================
-
-.. currentmodule:: macauff.tests
-
-.. autofunction:: generate_random_data

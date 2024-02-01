@@ -1,6 +1,0 @@
-compute_photometric_likelihoods
-===============================
-
-.. currentmodule:: macauff
-
-.. autofunction:: compute_photometric_likelihoods

@@ -1,6 +1,0 @@
-rect_slice_npy
-==============
-
-.. currentmodule:: macauff
-
-.. autofunction:: rect_slice_npy
